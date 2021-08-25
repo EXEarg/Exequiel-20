@@ -1,0 +1,12 @@
+.usuarios{
+    margin: 15px;
+    height: 115px;
+    width: 200px;
+    border-radius: 25px;
+    border-color: #1976D2;
+    border-style: solid;
+    background-color: #d0d1d3;
+}
+ul li{
+    font-size: larger;   
+}

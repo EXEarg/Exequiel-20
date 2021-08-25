@@ -1,0 +1,21 @@
+p{
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.hola-mundo{
+    background: linear-gradient(#1976D2,#4b8dce);
+}
+h1{
+    color: rgb(239, 247, 247);
+    text-shadow: rgb(19, 18, 18) 0.1em 0.1em 0.2em;
+}
+h2{
+    color: rgb(244, 250, 250);
+    text-shadow: rgb(17, 17, 17) 0.1em 0.1em 0.2em;
+}
+.finalmente{
+    text-align: center;
+    color: rgb(226, 39, 39);
+    font-size: larger;
+    text-shadow: rgb(8, 8, 8) 0.1em 0.1em 0.2em;
+}
